@@ -1,4 +1,4 @@
-# VirtualMemoryManager
+# Virtual Memory Manager
 Virtual Memory Manager
 This is a Virtual Memory Managed written in Java that is used to demonstrate page replacement using the LRU and FIFO method.
 It implements the common components of memory managers, like a TLB, Page Table, dirty bits, and address translation.
